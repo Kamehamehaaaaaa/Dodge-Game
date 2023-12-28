@@ -1,4 +1,4 @@
-# Dodge-Game
+# Dodge-Platformer-Game
 A platformer game containing an obstacle course with challenges
 
 **Project Description:**
